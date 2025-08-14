@@ -1,4 +1,1 @@
-WARNING
-THIS WILL DESTROY YOUR COMPUTER
-DO NOT USE ON YOUR MAIN COMPUTER
-PLEASE USE THIS ON A VM
+Please install a 16-bit application supportter so the .exe will run. If you don't want to then, use the .bat file
